@@ -1,5 +1,3 @@
-package out.production.LeetCodeSolutions;
-
 public class _9isPalindrome {
 
     public static void main(String[] args) {
